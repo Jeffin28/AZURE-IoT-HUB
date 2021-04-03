@@ -46,7 +46,7 @@ Here we have some points to note:
     - AzureIoTUtility         (ver : 1.0.34)
     - ArduinoJson		          (ver : 5.13.1)
     
-    ***Here i have used the microsoft SDK for the demo.***
+    Here i have used the ***microsoft SDK*** for the demo.
     
     You have an alternate option to download the library from the Arduino library manager. But I am not suggesting that way in this case 👎. 
     
