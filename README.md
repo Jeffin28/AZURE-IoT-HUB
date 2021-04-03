@@ -56,7 +56,7 @@ Here we have some points to note:
    - Open **global.h** and provide your wifi router's `ssid` and `password` :
     
      <p align="center">
-        <img src="Screenshot(145).png" width="400" align="center">
+        <img src="Screenshot (145).png" width="400" align="center">
      </p
   
      <p><br>
@@ -65,7 +65,7 @@ Here we have some points to note:
    - Open **azure.cpp** and provide your primary connection string here :
    
      <p align="center">
-        <img src="Screenshot(144).png" width="400" align="center">
+        <img src="Screenshot (144).png" width="400" align="center">
      </p
   
      <p><br>
