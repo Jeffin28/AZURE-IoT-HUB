@@ -97,8 +97,8 @@ Here we have some points to note:
     found it on ***TOOLS*** folder(64 bit).
     
 ## Compatibility
-   This library was tested with the NodeMCU V1.0 & ESP8266-12E board. It should also work with other standard ESP8266 that are compatible with the Arduino IDE. ESP8266 core 
-   version that I have tested is 2.4.2.
+   This library was tested with the **NodeMCU V1.0 & ESP8266-12E** board. It should also work with other standard **ESP8266** that are compatible with the Arduino IDE.
+   **ESP8266** core version that I have tested is **2.4.2**.
    
 ## Output
    You can observe it on via `device explore`r and `serial monitor` with baud rate 9600.
